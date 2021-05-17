@@ -39,10 +39,10 @@
 
 ## Presentation
 ### Create Schema and Seed Data
-![gif-schema1](gifs\gif-1.gif)
+![til](https://github.com/CoderLeE920/ORM-HW-13-E-Commerce/blob/main/gifs/gif-1.gif)
 
 ### GET,POST,DELETE,TAGS routes
-![gif-schema2](gifs\gif-2.gif)
+![til](https://github.com/CoderLeE920/ORM-HW-13-E-Commerce/blob/main/gifs/gif-2.gif)
 
 ## Tips and Tricks
 - Make SURE you npm i
