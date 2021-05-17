@@ -12,9 +12,4 @@ const sequelize = process.env.JAWSDB_URL
       },
     });
 
-const sequelize = new Sequelize('ecommerce_db', 'root', '720hgqaQu4*', {
-  host: 'localhost',
-  dialect: 'mysql'
-});
-
 module.exports = sequelize;

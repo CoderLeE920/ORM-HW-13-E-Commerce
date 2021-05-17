@@ -30,4 +30,23 @@
 - WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 - THEN I am able to successfully create, update, and delete data in my database
 
+### Features 
+- Node.js
+- NPM
+- MySQL
+- Sequilize
+- Express.js
+
 ## Presentation
+### Create Schema and Seed Data
+![gif-schema1](gifs\gif-1.gif)
+
+### GET,POST,DELETE,TAGS routes
+![gif-schema2](gifs\gif-2.gif)
+
+## Tips and Tricks
+- Make SURE you npm i
+- Make SURE you have the CORRECT PASSWORD!
+
+### Ending Notes
+Feel free to fork and fix there's still alot of bugs :(
